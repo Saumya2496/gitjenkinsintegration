@@ -1,8 +1,2 @@
-printf{"hi pagal"}
-rreg
-gergt
-g
-grg
-wrg
+printf {"hi pagal"}
 
-hwtwh
