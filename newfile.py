@@ -1,2 +1,2 @@
-printf {"Hellooo"}
+printf ("Hellooo")
 
