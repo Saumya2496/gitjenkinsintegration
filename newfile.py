@@ -1,2 +1,1 @@
-printf ("Hellooo")
-
+print('Hello, world!')
